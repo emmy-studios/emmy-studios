@@ -59,3 +59,5 @@
    + Description: Create admin system for both, small and big, business. Easy to control, connect, modify and interact with the database model with any code ability and knowloadge.
 6. Create your Custom Web application:
     + Description: Create with us your custom web application using modern and standard architectures. Create PWA, MPA, SSR, SPA, Static websites, backnd monolitics, microservices, API-REST-FULL architecture and more web patterns and architectures.
+  
+## Technical Things
